@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SwitchingMembershipProvider.cs" />
+    <Compile Include="Security\SwitchingMembershipProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
